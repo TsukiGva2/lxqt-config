@@ -1,7 +1,7 @@
 # lxqt-config
 config and image
 
-![frutiger](https://github.com/user-attachments/assets/102aae65-82b4-4109-9eb8-d142b9c86311)
+![aero_wannabe](https://github.com/user-attachments/assets/102aae65-82b4-4109-9eb8-d142b9c86311)
 
 - Icons: [WVista icon theme](https://www.opendesktop.org/p/1895674/)
 - LXQT theme: [ViewGlass](https://www.opendesktop.org/p/1637500/)
@@ -14,7 +14,7 @@ config and image
 
 ---
 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c9c2ad4f-8248-406e-af9d-1daa569440ef" />
+![what_even_is_ts](https://github.com/user-attachments/assets/c9c2ad4f-8248-406e-af9d-1daa569440ef)
 
 - Icons: [WVista icon theme](https://www.opendesktop.org/p/1895674/)
 - LXQT theme: System (Selects the Kvantum theme)
