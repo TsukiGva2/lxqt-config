@@ -10,3 +10,17 @@ config and image
 - Task bar background image: <img width="1500" height="44" alt="vista_67" src="https://github.com/user-attachments/assets/f390978c-96cb-4089-87fc-ac4858a5214f" />
 - QTerminal theme: [Campbell Powershell](https://www.opendesktop.org/p/2274592/)
 - Wallpapers: (Frutiger Aero Archive)[https://frutigeraeroarchive.org/wallpapers]
+
+---
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c9c2ad4f-8248-406e-af9d-1daa569440ef" />
+
+- Icons: [WVista icon theme](https://www.opendesktop.org/p/1895674/)
+- LXQT theme: System (Selects the Kvantum theme)
+- Widget Theme: Kvantum RoughGlass
+- App menu icon: [Tux orb icon](https://www.opendesktop.org/p/1108101/)
+- Task bar background image: <img width="1920" height="44" alt="skeuomorphic_white" src="https://github.com/user-attachments/assets/83c904ca-9fde-4a5a-b864-355e39306989" />
+
+- QTerminal theme: WhiteOnBlack
+- Wallpaper: ![wp10411883-linux-windows-wallpapers](https://github.com/user-attachments/assets/10a76dbd-1258-434c-941d-c934dc0238f0)
+
