@@ -7,7 +7,7 @@ config and image
 - LXQT theme: [ViewGlass](https://www.opendesktop.org/p/1637500/)
 - Widget Theme: Kvantum RoughGlass
 - App menu icon: [Tux orb icon](https://www.opendesktop.org/p/1108101/)
-- Task bar background image: <img width="1500" height="44" alt="vista_67" src="https://github.com/user-attachments/assets/f390978c-96cb-4089-87fc-ac4858a5214f" />
+- Task bar background image: <img width="1500" height="44" alt="vista_67" src="https://github.com/TsukiGva2/lxqt-config/blob/9c182c50840e5d93c07fdcdd407867aff7244c58/Images/vista-69.png" />
 - QTerminal theme: [Campbell Powershell](https://www.opendesktop.org/p/2274592/)
 - Wallpapers: (Frutiger Aero Archive)[https://frutigeraeroarchive.org/wallpapers]
 
@@ -19,7 +19,7 @@ config and image
 - LXQT theme: System (Selects the Kvantum theme)
 - Widget Theme: Kvantum RoughGlass
 - App menu icon: [Tux orb icon](https://www.opendesktop.org/p/1108101/)
-- Task bar background image: <img width="1920" height="44" alt="skeuomorphic_white" src="https://github.com/user-attachments/assets/83c904ca-9fde-4a5a-b864-355e39306989" />
+- Task bar background image: <img width="1920" height="44" alt="skeuomorphic_white" src="https://github.com/TsukiGva2/lxqt-config/blob/9c182c50840e5d93c07fdcdd407867aff7244c58/Images/skeuomorphic_white.png" />
 
 - QTerminal theme: WhiteOnBlack
 - Wallpaper: ![wp10411883-linux-windows-wallpapers](https://github.com/TsukiGva2/lxqt-config/blob/9712d9020e1521f7930fe762a07fd59eeaad29b6/Images/linux.jpg)
