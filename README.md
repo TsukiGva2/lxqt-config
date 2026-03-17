@@ -22,5 +22,5 @@ config and image
 - Task bar background image: <img width="1920" height="44" alt="skeuomorphic_white" src="https://github.com/user-attachments/assets/83c904ca-9fde-4a5a-b864-355e39306989" />
 
 - QTerminal theme: WhiteOnBlack
-- Wallpaper: ![wp10411883-linux-windows-wallpapers](https://github.com/user-attachments/assets/10a76dbd-1258-434c-941d-c934dc0238f0)
+- Wallpaper: ![wp10411883-linux-windows-wallpapers](https://github.com/TsukiGva2/lxqt-config/blob/9712d9020e1521f7930fe762a07fd59eeaad29b6/Images/linux.jpg)
 
